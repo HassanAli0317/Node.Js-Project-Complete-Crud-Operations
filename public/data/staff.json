@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Hassan Ali",
+        "age": "19",
+        "company": "ITinterested.com",
+        "language": "node.js"
+    },
+
+    {
+        "name": "Usama Sarfraz",
+        "age": "21",
+        "company": "ITinterested.com",
+        "language": ".asm"
+    },
+
+    {
+        "name": "Abdul Rehman",
+        "age": "20",
+        "company": "ITinterested.com",
+        "language": "react.js"
+    },
+
+    {
+        "name": "Muhammad Awais",
+        "age": "22",
+        "company": "ITinterested.com",
+        "language": "asp.net"
+    }
+]
